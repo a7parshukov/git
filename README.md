@@ -1,4 +1,9 @@
 # GIT 
+
+## Содержание
+<a href="/pages/1.base.md">
+
+## Теория
 Три основных секции GIT проекта:
 * рабочая копия (the working directory)
 * область индексирования (the staging area)
