@@ -1,6 +1,7 @@
 # GIT 
 
 ## Содержание
+<a href="/pages/0.command.md">Справочник команд</a>
 1. <a href="/pages/1.base.md">Основное</a>
 
 ## Теория
